@@ -1,5 +1,5 @@
 
-<img src='https://user-images.githubusercontent.com/105818064/227753126-d62de48f-3f0d-4db5-a28d-b160afead162.gif' alt='a man listening to music' width='600' height='300'>
+<img src='https://user-images.githubusercontent.com/105818064/227753126-d62de48f-3f0d-4db5-a28d-b160afead162.gif' alt='a man listening to music' width='450' height='300'>
 
 # My name is Anthony Keith!
 
