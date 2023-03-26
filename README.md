@@ -2,7 +2,7 @@
 
 - ⚡ Contact me on [LinkedIn](https://www.linkedin.com/in/anthony-keith/)
 - 🔭 I’m working on building a ecommerce website to display my front-end abilities.
-- 🌱 I’m currently learning SQL and how databases work.
+- 🌱 I’m currently learning SQL.
 - 👯 I’m looking to collaborate on customer facing ux/ui design.
 - 💬 Ask me what time works best for an interview :)
 - ⚡ Dad Joke - When is the best time to go to the dentist office? Tooth Hurty
