@@ -15,8 +15,9 @@
 - ⚡ Dad Joke - When is the best time to go to the dentist office? Tooth Hurty
 
 ## My Coding Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyKeith15&layout=compact&theme=tokyonight&border_radius=19)](https://github.com/AnthonyKeith15/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=AnthonyKeith15&theme=tokyonight&border_radius=19&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 ![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyKeith15&show_icons=true&theme=tokyonight&border_radius=19)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyKeith15&layout=compact&theme=tokyonight&border_radius=19)](https://github.com/AnthonyKeith15/github-readme-stats)
+
 
 
