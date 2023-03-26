@@ -14,4 +14,4 @@
 - 💬 Ask me what time you would like to schedule an interview :)
 - ⚡ Dad Joke - When is the best time to go to the dentist office? Tooth Hurty 
 
-Contact me on [LinkedIn](https://www.linkedin.com/in/anthony-keith/)
+<font size="32">Contact me on [LinkedIn](https://www.linkedin.com/in/anthony-keith/)</font>
