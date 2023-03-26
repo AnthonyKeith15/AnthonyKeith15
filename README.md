@@ -1,5 +1,9 @@
-<h1 align="center">
-  ![hello-there-with-text](https://user-images.githubusercontent.com/105818064/227751657-cdeb4ca7-4b38-49dc-bc1f-d1be31b4690e.gif)
+<div align="center">
+   ![hello-there-with-text](https://user-images.githubusercontent.com/105818064/227751657-cdeb4ca7-4b38-49dc-bc1f-d1be31b4690e.gif)
+ </div>
+ 
+ 
+  <h1>
   My name is Anthony Keith!
 </h1>
 
