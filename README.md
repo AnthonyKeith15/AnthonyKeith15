@@ -1,4 +1,5 @@
-![music-listening](https://user-images.githubusercontent.com/105818064/227753126-d62de48f-3f0d-4db5-a28d-b160afead162.gif)
+
+<img src='https://user-images.githubusercontent.com/105818064/227753126-d62de48f-3f0d-4db5-a28d-b160afead162.gif' alt='a man listening to music'>
 
 # My name is Anthony Keith!
 
