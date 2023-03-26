@@ -1,6 +1,4 @@
 
-<img src='https://user-images.githubusercontent.com/105818064/227753126-d62de48f-3f0d-4db5-a28d-b160afead162.gif' alt='a man listening to music' width='450' height='300'>
-
 # My name is Anthony Keith!
 
 
@@ -21,6 +19,10 @@
 <br>
 <br>
 ![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyKeith15&show_icons=true&theme=tokyonight&border_radius=19)
+<br>
+<br>
+<img src='https://user-images.githubusercontent.com/105818064/227753126-d62de48f-3f0d-4db5-a28d-b160afead162.gif' alt='a man listening to music' width='450' height='300'>
+
 
 
 
