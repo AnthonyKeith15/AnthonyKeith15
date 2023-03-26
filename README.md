@@ -1,8 +1,4 @@
-
 # My name is Anthony Keith!
-
-
-
 
 - ⚡ Contact me on [LinkedIn](https://www.linkedin.com/in/anthony-keith/)
 - 🔭 I’m working on building a ecommerce website to display my front-end abilities.
@@ -12,9 +8,6 @@
 - ⚡ Dad Joke - When is the best time to go to the dentist office? Tooth Hurty
 
 ## My Coding Stats
-
-<br>
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyKeith15&layout=compact&theme=tokyonight&border_radius=19)](https://github.com/AnthonyKeith15/github-readme-stats)
 <br>
 <br>
