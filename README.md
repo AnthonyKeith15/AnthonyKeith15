@@ -1,6 +1,4 @@
-<div align="center">
-   ![hello-there-with-text](https://user-images.githubusercontent.com/105818064/227751657-cdeb4ca7-4b38-49dc-bc1f-d1be31b4690e.gif)
- </div>
+ ![hello-there-with-text](https://user-images.githubusercontent.com/105818064/227751657-cdeb4ca7-4b38-49dc-bc1f-d1be31b4690e.gif)
  
  
   <h1>
