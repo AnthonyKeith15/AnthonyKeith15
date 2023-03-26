@@ -1,6 +1,4 @@
- ![hello-there-with-text](https://user-images.githubusercontent.com/105818064/227751657-cdeb4ca7-4b38-49dc-bc1f-d1be31b4690e.gif)
- 
- 
+![music-listening](https://user-images.githubusercontent.com/105818064/227753126-d62de48f-3f0d-4db5-a28d-b160afead162.gif)
 
 # My name is Anthony Keith!
 
